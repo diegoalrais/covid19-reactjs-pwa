@@ -18,5 +18,4 @@ const headers = {
 }
 ```
 
-![Dashboard](https://i.imgur.com/OJGGLNG.png "Dashboard")
-
+![Dashboard](https://i.imgur.com/L09wo7R.png "Dashboard")
